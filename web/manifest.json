@@ -7,13 +7,13 @@
     },
     "action": {
         "default_popup": "index.html",
-        "default_icon": "/icons/Icon-192.png"
+        "default_icon": "/icons/qr_logo.png"
     },
     "manifest_version": 3,
     "icons": {
-        "16": "icons/Icon-192.png",
-        "32": "icons/Icon-192.png",
-        "48": "icons/Icon-192.png",
-        "128": "icons/Icon-192.png"
+        "16": "icons/qr_logo.png",
+        "32": "icons/qr_logo.png",
+        "48": "icons/qr_logo.png",
+        "128": "icons/qr_logo.png"
     }
 }
